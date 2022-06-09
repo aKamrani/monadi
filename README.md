@@ -1,5 +1,5 @@
 # Monadi
-<img src="https://github.com/aKamrani/Instagram-post-bot/blob/main/images/help.png" width="600">
+<img src="https://github.com/aKamrani/monadi/blob/main/diagram.png" width="600">
 
 Monadi News is a advanced news scrapper bot!
 
