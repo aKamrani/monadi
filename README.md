@@ -13,7 +13,7 @@ It receive news from important news sources and then put it on a pipline process
 * it's un-detectable on whatsapp and instagram as a bot!
 
 ## How to use
-1) clone it
+1) clone it.
 2) run news-processor service invoking `node app.js` to run the processor.
 3) run publishers service by invoking `node app.js` to run the any kind of publisher you want.
 4) run scrappers service to crawl news and put it to processor.
