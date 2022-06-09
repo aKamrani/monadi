@@ -1,4 +1,6 @@
 # Monadi
+<img src="https://github.com/aKamrani/Instagram-post-bot/blob/main/images/help.png" width="600">
+
 Monadi News is a news scrapper bot!
 
 It receive news from important news sources and then put it on a pipline processor includes an AI-based filter then publish them to whatsapp, telegram and instagram
