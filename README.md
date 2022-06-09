@@ -1,12 +1,13 @@
 # Monadi
+
+[![made-by-pupeeter](https://img.shields.io/badge/Made%20By-pupeeter-green?style=for-the-badge)](https://github.com/puppeteer/puppeteer)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-red.svg?style=for-the-badge)](https://github.com/aKamrani/Instagram-post-bot)
+
 <img src="https://github.com/aKamrani/monadi/blob/main/diagram.png" width="600">
 
 Monadi News is a advanced news scrapper bot!
 
 It receive news from important news sources and then put it on a pipline processor includes an AI-based filter then publish them to whatsapp, telegram and instagram
-
-[![made-by-pupeeter](https://img.shields.io/badge/Made%20By-pupeeter-green?style=for-the-badge)](https://github.com/puppeteer/puppeteer)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-red.svg?style=for-the-badge)](https://github.com/aKamrani/Instagram-post-bot)
 
 ## Features
 * you can add any news scrapper from any source
