@@ -1,2 +1,2 @@
-# monadi
+# Monadi
 Monadi News App
